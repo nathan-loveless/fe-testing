@@ -2,6 +2,7 @@
   "name": "booked-up",
   "version": "1.0.0",
   "description": "An app for authors to share their work",
+  "type": "module",
   "main": "index.jsx",
   "scripts": {
     "build": "parcel build --public-url ./dist/ src/index.html",
